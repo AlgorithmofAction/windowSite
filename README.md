@@ -1,1 +1,1 @@
-AlgorithmofAction/windowSite link
+https://algorithmofaction.github.io/windowSite/    link
